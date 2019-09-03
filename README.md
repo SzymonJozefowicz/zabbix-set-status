@@ -16,8 +16,8 @@ Solution
 Import file zabbix-set-status.py from this repo 
 
 To disable host in Zabbix use command line  
-# python3 zabbix-set-status <machine name> 1
+# python3 zabbix-set-status [machine name] 1
   
 to enable use  
   
-# python3 zabbix-set-status <machine name> 0  
+# python3 zabbix-set-status [machine name] 0  
